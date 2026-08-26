@@ -1,0 +1,7 @@
+Metric,Value
+Rows,10000
+Columns,19
+Duplicate_Rows,0
+Total_Missing_Values,2011
+Dropout_Count,2354
+Non_Dropout_Count,7646
